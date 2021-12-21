@@ -23,6 +23,20 @@
 <br>
 
 
+#### 📒 흐름
+>![흐름 사진](https://user-images.githubusercontent.com/57470848/146899468-583102a0-abfe-4cc0-b2f5-3b9653812f71.png)
+
+
+<br>
+
+
+#### 📒 데모영상
+> https://drive.google.com/file/d/1MxRIqifn_XCB2ge5gfoSKRy52d1DU5X4/view?usp=sharing
+
+
+<br>
+
+
 #### 📒 프로그램 동작
 
 
